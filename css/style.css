@@ -680,9 +680,9 @@ ul.btn li:last-child {
      margin: 0;
 }
 
-.wallet_main figure img {
-     width: 100%;
-}
+/* .wallet_main figure img {
+     width: 60%;
+} */
 
 .wallet_main .read_more {
      margin: 0 auto;
